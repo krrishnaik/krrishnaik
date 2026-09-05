@@ -186,3 +186,15 @@ Android cybersecurity app that analyzes suspicious SMS, WhatsApp, and email cont
 </p>
 
 > Building consistently, one contribution at a time.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krrishnaik/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krrishnaik)
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikerkd727@gmail.com)
+
+</div>
