@@ -151,3 +151,13 @@ Android cybersecurity app that analyzes suspicious SMS, WhatsApp, and email cont
 **Technical Interests**
 
 `C++ Systems` `Backend & APIs` `Data-Intensive Applications` `AI/ML` `Performance Optimization` `Open Source`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://ghstats.dev/api/card?username=krrishnaik)
+
+</div>
